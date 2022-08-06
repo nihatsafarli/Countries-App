@@ -8,7 +8,7 @@ function App() {
     <>
       <div className="header">
         <div className="container">
-          <h5>I want to visit countries</h5>
+          <h5>I Want To Learn About Countries</h5>
         </div>
       </div>
       <div className="container">
